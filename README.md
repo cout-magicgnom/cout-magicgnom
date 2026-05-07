@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github.com/cout-magicgnom/blob/main/github-metrics.svg" alt=""></img>
+      <img src="https://github.com/cout-magicgnom/cout-magicgnom/blob/main/github-metrics.svg" alt=""></img>
       <img width="900" height="1" alt="">
     </td>
   </tr>
