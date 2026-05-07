@@ -1,29 +1,24 @@
 name: Metrics
+
 on:
-  # 🌏 Think about the planet! No need to update stats too frequently
-  schedule: [{cron: "0 16 * * *"}]
-  # 💡 The following line lets you run workflow manually from the action tab!
+  schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
+
 jobs:
-  metrics:
+  github-metrics:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
     steps:
-
-      - name: 🦑 Medias
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          filename: medias.svg
+          filename: github-metrics.svg
           token: ${{ secrets.TOKEN }}
-          base: ""
-          config_order: anilist, music
 
-          committer_gist: ${{ secrets.GIST }}
-          plugin_anilist: yes
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, characters
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
-          plugin_music: yes
-          plugin_music_playlist: ${{ secrets.PLAYLIST }}
-          plugin_music_limit: 9
+          user: cout-magicgnom
+
+          base: header, activity, repositories
+
+          plugin_languages: yes
