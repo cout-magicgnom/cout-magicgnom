@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Metrics](./github-metrics.svg)
+![Metrics](./medias.svg)
 
 
 
