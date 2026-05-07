@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.TOKEN }}
           base: ""
           config_order: anilist, music
-          output_action: gist
+
           committer_gist: ${{ secrets.GIST }}
           plugin_anilist: yes
           plugin_anilist_medias: anime
