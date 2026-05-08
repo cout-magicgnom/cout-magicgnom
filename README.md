@@ -109,7 +109,7 @@
 ### :alien: Github Stats 
 <!-- github stats (vercel deploy com PAT) -->
 <a href="https://github.com/cout-magicgnom/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-rho-ashen-30.vercel.app/api?username=cout-magicgnom&theme=merko&hide_title=true" />
+  <img height=142 align="center" src="https://github-readme-stats-rho-ashen-30.vercel.app/api?username=cout-magicgnom&theme=merko&hide_title=true" />
 </a>
 <a href="https://github.com/cout-magicgnom/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-rho-ashen-30.vercel.app/api/top-langs?username=cout-magicgnom&theme=merko&layout=compact&langs_count=8&card_width=320" />
