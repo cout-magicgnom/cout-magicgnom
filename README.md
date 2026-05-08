@@ -45,22 +45,6 @@
 />
 <img
     align="left"
-    alt="Kotlin"
-    title="Kotlin"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
-/>
-<img
-    align="left"
-    alt=".NET"
-    title=".NET"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"
-/>
-<img
-    align="left"
     alt="Debian"
     title="Debian"
     width="30px"
@@ -74,14 +58,6 @@
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-/>
-<img
-    align="left"
-    alt="Podman"
-    title="Podman"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg"
 />
 <img
     align="left"
